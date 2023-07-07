@@ -538,8 +538,8 @@ body {
 }
 
 .about-content {
-  justify-content: start;
-  align-items: start;
+  justify-content: center;
+  align-items: center;
 }
 
 .about .section-title {
@@ -1211,6 +1211,8 @@ body {
 
   .container {
     max-width: 720px;
+    justify-content: center;
+    align-items: center;
   }
 
 
