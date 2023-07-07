@@ -862,6 +862,7 @@ body {
 }
 
 .features-card .card-title {
+  color: #2b2d42;
   transition: var(--transition-1);
 }
 
