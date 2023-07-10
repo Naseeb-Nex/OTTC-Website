@@ -845,7 +845,7 @@ body {
 
 .f-grid-list {
   display: grid;
-  grid-template-columns: 1ftr;
+  /* grid-template-columns: 1 ftr; */
   gap: 30px;
 }
 
